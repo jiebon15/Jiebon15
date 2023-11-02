@@ -18,7 +18,6 @@ My name is Ajie Prasetio, graduate in Electronics Engineering education from Uni
 <details>
   <summary><b>📕&nbsp;&nbsp;Online&nbsp; &nbsp;Courses</b></summary>
   <br/>
-```
 1. Introduction to Image Processing
 2. Work Smarter with Microsoft Word
 3. Exploratory Data Analysis with MATLAB
@@ -45,6 +44,4 @@ My name is Ajie Prasetio, graduate in Electronics Engineering education from Uni
 24. Interfacing with the Arduino
 25. Python Data Structures
 26. Programming for Everybody (Getting Started with Python)
-
-```
 </details>
