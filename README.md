@@ -16,10 +16,10 @@ My name is Ajie Prasetio, graduate in Electronics Engineering education from Uni
 - 2nd Place Regional 3 Indonesian Soccer Robot Contest Regional 3
 
 <details>
-  <summary><b>📕&nbsp;&nbsp;Online&nbsp; &nbsp;Courses</b></summary>
+  <summary><b>📕&nbsp;&nbsp;Online&nbsp;Courses</b></summary>
   <br/>
-1. Introduction to Image Processing
-2. Work Smarter with Microsoft Word
+- Introduction to Image Processing
+- Work Smarter with Microsoft Word
 3. Exploratory Data Analysis with MATLAB
 4. System Administration and IT Infrastructure Services
 5. Introduction to Git and GitHub
