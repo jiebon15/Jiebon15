@@ -18,8 +18,8 @@ My name is Ajie Prasetio, graduate in Electronics Engineering education from Uni
 <details>
   <summary><b>📕&nbsp;&nbsp;Online&nbsp;Courses</b></summary>
   <br/>
-- Introduction to Image Processing
-- Work Smarter with Microsoft Word
+ Introduction to Image Processing
+- Work Smarter with Microsoft Word<br/>
 3. Exploratory Data Analysis with MATLAB
 4. System Administration and IT Infrastructure Services
 5. Introduction to Git and GitHub
