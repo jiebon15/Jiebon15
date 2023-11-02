@@ -18,30 +18,30 @@ My name is Ajie Prasetio, graduate in Electronics Engineering education from Uni
 <details>
   <summary><b>📕&nbsp;&nbsp;Online&nbsp;Courses</b></summary>
   <br/>
- Introduction to Image Processing
-- Work Smarter with Microsoft Word<br/>
-3. Exploratory Data Analysis with MATLAB
-4. System Administration and IT Infrastructure Services
-5. Introduction to Git and GitHub
-6. Introduction to Business Analysis Using Spreadsheets: Basics
-7. Create Charts and Dashboard using Google Sheets
-8. Introduction to Python
-9. Foundations: Data, Data, Everywhere
-10. Take a Swing at Baseball Analytics: Explore Player Careers
-11. Introduction to Mechanical Engineering Design and Manufacturing with Fusion 360
-12. Operating Systems and You: Becoming a Power User
-13. The Bits and Bytes of Computer Networking
-14. Interfacing with the Raspberry Pi
-15. Using Python to Access Web Data
-16. Using Python to Interact with the Operating System
-17. Using Databases with Python
-18. Crash Course on Python
-19. Image Processing with Python
-20. Technical Support Fundamentals
-21. The Arduino Platform and C Programming
-22. Introduction to the Internet of Things and Embedded Systems
-23. The Raspberry Pi Platform and Python Programming for the Raspberry Pi
-24. Interfacing with the Arduino
-25. Python Data Structures
-26. Programming for Everybody (Getting Started with Python)
+1. Introduction to Image Processing<br/>
+2. Work Smarter with Microsoft Word<br/>
+3. Exploratory Data Analysis with MATLAB<br/>
+4. System Administration and IT Infrastructure Services<br/>
+5. Introduction to Git and GitHub<br/>
+6. Introduction to Business Analysis Using Spreadsheets: Basics<br/>
+7. Create Charts and Dashboard using Google Sheets<br/>
+8. Introduction to Python<br/>
+9. Foundations: Data, Data, Everywhere<br/>
+10. Take a Swing at Baseball Analytics: Explore Player Careers<br/>
+11. Introduction to Mechanical Engineering Design and Manufacturing with Fusion 360<br/>
+12. Operating Systems and You: Becoming a Power User<br/>
+13. The Bits and Bytes of Computer Networking<br/>
+14. Interfacing with the Raspberry Pi<br/>
+15. Using Python to Access Web Data<br/>
+16. Using Python to Interact with the Operating System<br/>
+17. Using Databases with Python<br/>
+18. Crash Course on Python<br/>
+19. Image Processing with Python<br/>
+20. Technical Support Fundamentals<br/>
+21. The Arduino Platform and C Programming<br/>
+22. Introduction to the Internet of Things and Embedded Systems<br/>
+23. The Raspberry Pi Platform and Python Programming for the Raspberry Pi<br/>
+24. Interfacing with the Arduino<br/>
+25. Python Data Structures<br/>
+26. Programming for Everybody (Getting Started with Python)<br/>
 </details>
